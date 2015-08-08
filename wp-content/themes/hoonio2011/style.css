@@ -1,0 +1,23 @@
+/*  
+Theme Name: Hoonio 2011
+Theme URI: 
+Description: Hoonio 2011 is a theme specialized specifically for Hoonio.com, and based on hoonio2011(http://www.wp-themix.org)
+Version: 1.0a
+Author: Hoonio
+Author URL: http://www.hoonio.com/
+*/
+
+.aligncenter {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.alignleft {
+float: left;
+}
+
+.alignright {
+float: right;
+}
+
